@@ -14,7 +14,7 @@ public class Main {
         if(remainder == 0){
             System.out.println(number + " is an even Number");
         }else{
-            System.out.println(number + "is an odd Number");
+            System.out.println(number + " is an odd Number");
         }
 
 
